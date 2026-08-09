@@ -2,6 +2,14 @@
   "schema_version": 1,
   "projects": [
     {
+      "kid": "kp_35c78cdc0e944bb19975a86cab00c7a8",
+      "context_release_version": 3,
+      "published_at": "2026-08-09T20:02:05.868426+00:00",
+      "context_path": ".kelson/projects/kp_35c78cdc0e944bb19975a86cab00c7a8/context.md",
+      "metadata_path": ".kelson/projects/kp_35c78cdc0e944bb19975a86cab00c7a8/metadata.json",
+      "context_sha256": "20da3a08b98d05b4a58826692a2311cc506eab7658c1c239e5948b82136d8b98"
+    },
+    {
       "kid": "kp_c0e296ad87d4429d9dae9628afa54088",
       "context_release_version": 1,
       "published_at": "2026-08-10T16:47:27.733709+00:00",

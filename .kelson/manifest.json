@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "projects": [
+    {
+      "kid": "kp_c0e296ad87d4429d9dae9628afa54088",
+      "context_release_version": 1,
+      "published_at": "2026-08-10T16:47:27.733709+00:00",
+      "context_path": ".kelson/projects/kp_c0e296ad87d4429d9dae9628afa54088/context.md",
+      "metadata_path": ".kelson/projects/kp_c0e296ad87d4429d9dae9628afa54088/metadata.json",
+      "context_sha256": "47a2565aa34ebc0b780207e0165a4d23349bde8d5be17f17b0d3adab3ad10136"
+    }
+  ]
+}
